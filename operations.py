@@ -12,6 +12,15 @@ def insert(data):
             file.seek(0)
             json.dump(file_data, file, indent = 4)
         print("Successfully Inserted!")
+        with open("database/db_ledger.json", 'r+') as file:
+            file_data = json.load(file)
+            new_data = data
+            file_data["documents"].append(new_data)
+            file.seek(0)
+            json.dump(file_data, file, indent=4)
+        return "True"
+    else:
+        return "False"
 
 def search(id):
     obj = json.load(open("database/db.json"))
@@ -35,8 +44,7 @@ def update(data):
             for key in data_keys:
                 if documents[i][key]!=None:
                     obj['documents'][i][key] = data[key]
-
-    open("database/db.json", "w").write(json.dumps(obj, sort_keys=True, indent=4, separators=(',', ': ')))
+            open("database/db.json", "w").write(json.dumps(obj, sort_keys=True, indent=4, separators=(',', ': ')))
 
 def write_db_ledger(data):
     obj = json.load(open("database/db.json"))
@@ -52,8 +60,8 @@ def write_db_ledger(data):
             with open("database/db_ledger.json", 'r+') as file:
                 file_data = json.load(file)
                 new_data = data
-                new_data["commit_time"] = get_time()
-                new_data["user"] = get_user()
+                #new_data["commit_time"] = get_time()
+                #new_data["user"] = get_user()
                 file_data["documents"].append(new_data)
                 file.seek(0)
                 json.dump(file_data, file, indent=4)
@@ -62,7 +70,7 @@ def write_db_ledger(data):
 
 def get_time():
     commit_time = datetime.datetime.now()
-    #print(str(commit_time))
+        # print(str(commit_time))
     return str(commit_time)
 
 def get_user():
