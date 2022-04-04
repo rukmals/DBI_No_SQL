@@ -17,6 +17,15 @@
                 "name": "Rukmal1",
                 "balance": "$300"
             }
+        },
+        {
+            "id": "1",
+            "userID": "rukmals",
+            "timestamp": "2022-04-04 11:38:51.382745",
+            "data": {
+                "name": "Rukmal1",
+                "balance": "$500"
+            }
         }
     ]
 }
