@@ -21,7 +21,7 @@ class Blockchain:
         self.create_genesis_block()
 
     def create_genesis_block(self):
-        genesis_block = Block(0, [], str(datetime.datetime.now()), "0")
+        genesis_block = Block(0, self.unconfirmed_transactions, str(datetime.datetime.now()), "0")
         genesis_block.hash = genesis_block.compute_hash()
         self.chain.append(genesis_block)
 

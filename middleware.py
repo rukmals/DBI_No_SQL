@@ -36,6 +36,8 @@ def insert(req_data):
     trans = add_transaction(req_data)
     if trans == "True":
         operations.insert(req_data)
+        print(mine())
+        print(get_chain())
         return "Successful!"
     else:
         return "Unsucessful!"

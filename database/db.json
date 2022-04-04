@@ -2,11 +2,902 @@
     "documents": [
         {
             "data": {
-                "balance": "$500",
+                "balance": "$501",
                 "name": "Rukmal1"
             },
             "id": "1",
-            "timestamp": "2022-04-04 11:39:16.651379",
+            "timestamp": "2022-04-04 20:46:39.966295",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$502",
+                "name": "Rukmal2"
+            },
+            "id": "2",
+            "timestamp": "2022-04-04 20:46:39.971877",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$503",
+                "name": "Rukmal3"
+            },
+            "id": "3",
+            "timestamp": "2022-04-04 20:46:39.975239",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$504",
+                "name": "Rukmal4"
+            },
+            "id": "4",
+            "timestamp": "2022-04-04 20:46:39.980806",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$505",
+                "name": "Rukmal5"
+            },
+            "id": "5",
+            "timestamp": "2022-04-04 20:46:39.983960",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$506",
+                "name": "Rukmal6"
+            },
+            "id": "6",
+            "timestamp": "2022-04-04 20:46:39.987334",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$507",
+                "name": "Rukmal7"
+            },
+            "id": "7",
+            "timestamp": "2022-04-04 20:46:39.990745",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$508",
+                "name": "Rukmal8"
+            },
+            "id": "8",
+            "timestamp": "2022-04-04 20:46:39.994053",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$509",
+                "name": "Rukmal9"
+            },
+            "id": "9",
+            "timestamp": "2022-04-04 20:46:39.998957",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5010",
+                "name": "Rukmal10"
+            },
+            "id": "10",
+            "timestamp": "2022-04-04 20:46:40.011807",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5011",
+                "name": "Rukmal11"
+            },
+            "id": "11",
+            "timestamp": "2022-04-04 20:46:40.024960",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5012",
+                "name": "Rukmal12"
+            },
+            "id": "12",
+            "timestamp": "2022-04-04 20:46:40.033546",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5013",
+                "name": "Rukmal13"
+            },
+            "id": "13",
+            "timestamp": "2022-04-04 20:46:40.039968",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5014",
+                "name": "Rukmal14"
+            },
+            "id": "14",
+            "timestamp": "2022-04-04 20:46:40.045145",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5015",
+                "name": "Rukmal15"
+            },
+            "id": "15",
+            "timestamp": "2022-04-04 20:46:40.048641",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5016",
+                "name": "Rukmal16"
+            },
+            "id": "16",
+            "timestamp": "2022-04-04 20:46:40.052895",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5017",
+                "name": "Rukmal17"
+            },
+            "id": "17",
+            "timestamp": "2022-04-04 20:46:40.056815",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5018",
+                "name": "Rukmal18"
+            },
+            "id": "18",
+            "timestamp": "2022-04-04 20:46:40.062155",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5019",
+                "name": "Rukmal19"
+            },
+            "id": "19",
+            "timestamp": "2022-04-04 20:46:40.067116",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5020",
+                "name": "Rukmal20"
+            },
+            "id": "20",
+            "timestamp": "2022-04-04 20:46:40.073734",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5021",
+                "name": "Rukmal21"
+            },
+            "id": "21",
+            "timestamp": "2022-04-04 20:46:40.080941",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5022",
+                "name": "Rukmal22"
+            },
+            "id": "22",
+            "timestamp": "2022-04-04 20:46:40.089088",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5023",
+                "name": "Rukmal23"
+            },
+            "id": "23",
+            "timestamp": "2022-04-04 20:46:40.095511",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5024",
+                "name": "Rukmal24"
+            },
+            "id": "24",
+            "timestamp": "2022-04-04 20:46:40.100135",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5025",
+                "name": "Rukmal25"
+            },
+            "id": "25",
+            "timestamp": "2022-04-04 20:46:40.106374",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5026",
+                "name": "Rukmal26"
+            },
+            "id": "26",
+            "timestamp": "2022-04-04 20:46:40.111728",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5027",
+                "name": "Rukmal27"
+            },
+            "id": "27",
+            "timestamp": "2022-04-04 20:46:40.117923",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5028",
+                "name": "Rukmal28"
+            },
+            "id": "28",
+            "timestamp": "2022-04-04 20:46:40.123053",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5029",
+                "name": "Rukmal29"
+            },
+            "id": "29",
+            "timestamp": "2022-04-04 20:46:40.128499",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5030",
+                "name": "Rukmal30"
+            },
+            "id": "30",
+            "timestamp": "2022-04-04 20:46:40.132724",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5031",
+                "name": "Rukmal31"
+            },
+            "id": "31",
+            "timestamp": "2022-04-04 20:46:40.138354",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5032",
+                "name": "Rukmal32"
+            },
+            "id": "32",
+            "timestamp": "2022-04-04 20:46:40.148636",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5033",
+                "name": "Rukmal33"
+            },
+            "id": "33",
+            "timestamp": "2022-04-04 20:46:40.160455",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5034",
+                "name": "Rukmal34"
+            },
+            "id": "34",
+            "timestamp": "2022-04-04 20:46:40.165307",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5035",
+                "name": "Rukmal35"
+            },
+            "id": "35",
+            "timestamp": "2022-04-04 20:46:40.171164",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5036",
+                "name": "Rukmal36"
+            },
+            "id": "36",
+            "timestamp": "2022-04-04 20:46:40.178087",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5037",
+                "name": "Rukmal37"
+            },
+            "id": "37",
+            "timestamp": "2022-04-04 20:46:40.182210",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5038",
+                "name": "Rukmal38"
+            },
+            "id": "38",
+            "timestamp": "2022-04-04 20:46:40.187707",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5039",
+                "name": "Rukmal39"
+            },
+            "id": "39",
+            "timestamp": "2022-04-04 20:46:40.192684",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5040",
+                "name": "Rukmal40"
+            },
+            "id": "40",
+            "timestamp": "2022-04-04 20:46:40.197507",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5041",
+                "name": "Rukmal41"
+            },
+            "id": "41",
+            "timestamp": "2022-04-04 20:46:40.201687",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5042",
+                "name": "Rukmal42"
+            },
+            "id": "42",
+            "timestamp": "2022-04-04 20:46:40.207555",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5043",
+                "name": "Rukmal43"
+            },
+            "id": "43",
+            "timestamp": "2022-04-04 20:46:40.216934",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5044",
+                "name": "Rukmal44"
+            },
+            "id": "44",
+            "timestamp": "2022-04-04 20:46:40.222042",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5045",
+                "name": "Rukmal45"
+            },
+            "id": "45",
+            "timestamp": "2022-04-04 20:46:40.226141",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5046",
+                "name": "Rukmal46"
+            },
+            "id": "46",
+            "timestamp": "2022-04-04 20:46:40.231337",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5047",
+                "name": "Rukmal47"
+            },
+            "id": "47",
+            "timestamp": "2022-04-04 20:46:40.236081",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5048",
+                "name": "Rukmal48"
+            },
+            "id": "48",
+            "timestamp": "2022-04-04 20:46:40.242064",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5049",
+                "name": "Rukmal49"
+            },
+            "id": "49",
+            "timestamp": "2022-04-04 20:46:40.245705",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5050",
+                "name": "Rukmal50"
+            },
+            "id": "50",
+            "timestamp": "2022-04-04 20:46:40.250093",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5051",
+                "name": "Rukmal51"
+            },
+            "id": "51",
+            "timestamp": "2022-04-04 20:46:40.254093",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5052",
+                "name": "Rukmal52"
+            },
+            "id": "52",
+            "timestamp": "2022-04-04 20:46:40.263251",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5053",
+                "name": "Rukmal53"
+            },
+            "id": "53",
+            "timestamp": "2022-04-04 20:46:40.276850",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5054",
+                "name": "Rukmal54"
+            },
+            "id": "54",
+            "timestamp": "2022-04-04 20:46:40.284644",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5055",
+                "name": "Rukmal55"
+            },
+            "id": "55",
+            "timestamp": "2022-04-04 20:46:40.291578",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5056",
+                "name": "Rukmal56"
+            },
+            "id": "56",
+            "timestamp": "2022-04-04 20:46:40.298393",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5057",
+                "name": "Rukmal57"
+            },
+            "id": "57",
+            "timestamp": "2022-04-04 20:46:40.305533",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5058",
+                "name": "Rukmal58"
+            },
+            "id": "58",
+            "timestamp": "2022-04-04 20:46:40.313747",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5059",
+                "name": "Rukmal59"
+            },
+            "id": "59",
+            "timestamp": "2022-04-04 20:46:40.320539",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5060",
+                "name": "Rukmal60"
+            },
+            "id": "60",
+            "timestamp": "2022-04-04 20:46:40.324521",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5061",
+                "name": "Rukmal61"
+            },
+            "id": "61",
+            "timestamp": "2022-04-04 20:46:40.333427",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5062",
+                "name": "Rukmal62"
+            },
+            "id": "62",
+            "timestamp": "2022-04-04 20:46:40.340229",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5063",
+                "name": "Rukmal63"
+            },
+            "id": "63",
+            "timestamp": "2022-04-04 20:46:40.348496",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5064",
+                "name": "Rukmal64"
+            },
+            "id": "64",
+            "timestamp": "2022-04-04 20:46:40.355754",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5065",
+                "name": "Rukmal65"
+            },
+            "id": "65",
+            "timestamp": "2022-04-04 20:46:40.364080",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5066",
+                "name": "Rukmal66"
+            },
+            "id": "66",
+            "timestamp": "2022-04-04 20:46:40.371213",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5067",
+                "name": "Rukmal67"
+            },
+            "id": "67",
+            "timestamp": "2022-04-04 20:46:40.384697",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5068",
+                "name": "Rukmal68"
+            },
+            "id": "68",
+            "timestamp": "2022-04-04 20:46:40.393876",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5069",
+                "name": "Rukmal69"
+            },
+            "id": "69",
+            "timestamp": "2022-04-04 20:46:40.400614",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5070",
+                "name": "Rukmal70"
+            },
+            "id": "70",
+            "timestamp": "2022-04-04 20:46:40.407363",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5071",
+                "name": "Rukmal71"
+            },
+            "id": "71",
+            "timestamp": "2022-04-04 20:46:40.415303",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5072",
+                "name": "Rukmal72"
+            },
+            "id": "72",
+            "timestamp": "2022-04-04 20:46:40.428337",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5073",
+                "name": "Rukmal73"
+            },
+            "id": "73",
+            "timestamp": "2022-04-04 20:46:40.435271",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5074",
+                "name": "Rukmal74"
+            },
+            "id": "74",
+            "timestamp": "2022-04-04 20:46:40.442173",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5075",
+                "name": "Rukmal75"
+            },
+            "id": "75",
+            "timestamp": "2022-04-04 20:46:40.449082",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5076",
+                "name": "Rukmal76"
+            },
+            "id": "76",
+            "timestamp": "2022-04-04 20:46:40.456018",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5077",
+                "name": "Rukmal77"
+            },
+            "id": "77",
+            "timestamp": "2022-04-04 20:46:40.469095",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5078",
+                "name": "Rukmal78"
+            },
+            "id": "78",
+            "timestamp": "2022-04-04 20:46:40.483684",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5079",
+                "name": "Rukmal79"
+            },
+            "id": "79",
+            "timestamp": "2022-04-04 20:46:40.490849",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5080",
+                "name": "Rukmal80"
+            },
+            "id": "80",
+            "timestamp": "2022-04-04 20:46:40.497729",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5081",
+                "name": "Rukmal81"
+            },
+            "id": "81",
+            "timestamp": "2022-04-04 20:46:40.505052",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5082",
+                "name": "Rukmal82"
+            },
+            "id": "82",
+            "timestamp": "2022-04-04 20:46:40.525797",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5083",
+                "name": "Rukmal83"
+            },
+            "id": "83",
+            "timestamp": "2022-04-04 20:46:40.534364",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5084",
+                "name": "Rukmal84"
+            },
+            "id": "84",
+            "timestamp": "2022-04-04 20:46:40.541575",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5085",
+                "name": "Rukmal85"
+            },
+            "id": "85",
+            "timestamp": "2022-04-04 20:46:40.548719",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5086",
+                "name": "Rukmal86"
+            },
+            "id": "86",
+            "timestamp": "2022-04-04 20:46:40.556739",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5087",
+                "name": "Rukmal87"
+            },
+            "id": "87",
+            "timestamp": "2022-04-04 20:46:40.563752",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5088",
+                "name": "Rukmal88"
+            },
+            "id": "88",
+            "timestamp": "2022-04-04 20:46:40.570760",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5089",
+                "name": "Rukmal89"
+            },
+            "id": "89",
+            "timestamp": "2022-04-04 20:46:40.583932",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5090",
+                "name": "Rukmal90"
+            },
+            "id": "90",
+            "timestamp": "2022-04-04 20:46:40.593307",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5091",
+                "name": "Rukmal91"
+            },
+            "id": "91",
+            "timestamp": "2022-04-04 20:46:40.601485",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5092",
+                "name": "Rukmal92"
+            },
+            "id": "92",
+            "timestamp": "2022-04-04 20:46:40.608417",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5093",
+                "name": "Rukmal93"
+            },
+            "id": "93",
+            "timestamp": "2022-04-04 20:46:40.616734",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5094",
+                "name": "Rukmal94"
+            },
+            "id": "94",
+            "timestamp": "2022-04-04 20:46:40.624742",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5095",
+                "name": "Rukmal95"
+            },
+            "id": "95",
+            "timestamp": "2022-04-04 20:46:40.639003",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5096",
+                "name": "Rukmal96"
+            },
+            "id": "96",
+            "timestamp": "2022-04-04 20:46:40.649213",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5097",
+                "name": "Rukmal97"
+            },
+            "id": "97",
+            "timestamp": "2022-04-04 20:46:40.657404",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5098",
+                "name": "Rukmal98"
+            },
+            "id": "98",
+            "timestamp": "2022-04-04 20:46:40.664385",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$5099",
+                "name": "Rukmal99"
+            },
+            "id": "99",
+            "timestamp": "2022-04-04 20:46:40.671298",
+            "userID": "rukmals"
+        },
+        {
+            "data": {
+                "balance": "$50100",
+                "name": "Rukmal100"
+            },
+            "id": "100",
+            "timestamp": "2022-04-04 20:46:40.678390",
             "userID": "rukmals"
         }
     ]
